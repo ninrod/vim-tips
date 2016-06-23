@@ -6,3 +6,7 @@ use this:
 :h helptags
 ```
 
+CREDITS
+---------
+
+credits go to zapper: http://zzapper.co.uk/vimtips.html
